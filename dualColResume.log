@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  10 APR 2016 18:44
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  13 DEC 2016 12:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -905,17 +905,26 @@ LaTeX Info: Redefining \nameref on input line 68.
 \@outlinefile=\write3
 \openout3 = `dualColResume.out'.
 
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
 LaTeX Font Info:    Font shape `EU1/GillSans(0)/m/n' will be
 (Font)              scaled to size 9.41528pt on input line 76.
 LaTeX Font Info:    Font shape `EU1/GillSans(0)/m/n' will be
 (Font)              scaled to size 23.42522pt on input line 76.
 LaTeX Font Info:    Font shape `EU1/GillSans(0)/m/n' will be
 (Font)              scaled to size 13.558pt on input line 77.
-
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
 )
+Underfull \hbox (badness 1616) in paragraph at lines 99--100
+\EU1/HoeflerText(0)/m/n/9 Research included protocol level experiments with TCP
+/UDP and
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
@@ -1023,10 +1032,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 301.
 ### simple group (level 1) entered at line 76 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 22196 strings out of 493706
- 408666 string characters out of 6145769
- 461325 words of memory out of 5000000
- 25378 multiletter control sequences out of 15000+600000
+ 22195 strings out of 493706
+ 408664 string characters out of 6145769
+ 462210 words of memory out of 5000000
+ 25377 multiletter control sequences out of 15000+600000
  4816 words of font info for 46 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  46i,11n,102p,10402b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
